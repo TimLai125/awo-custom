@@ -23,6 +23,7 @@
         'security/ir.model.access.csv',
         'views/account_fiscalyear_views.xml',
         'views/advance_search_disable.xml',
+        'views/res_partner_views.xml',
         'views/stock_views.xml',
         'views/supplier_stock_views.xml',
         'wizards/consignment_report_wizard_view.xml',
